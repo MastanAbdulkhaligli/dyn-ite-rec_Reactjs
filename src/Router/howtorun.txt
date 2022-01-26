@@ -1,0 +1,3 @@
+About,Contact,Home,Navbar,Portfolio componentleri 
+App2 icinde runlanir 
+App2 index.js icinde runlayanda Router exampli run olunur
